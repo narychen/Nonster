@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yamba</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_tweet">Tweet</string>
+    <string name="hint_status">What\'s going on?</string>
+    <string name="text_count">140</string>
+    <string name="title_username">Username</string>
+    <string name="summary_username">设置用户名</string>
+    <string name="title_password">Password</string>
+    <string name="summary_password">设置密码</string>
+    <string name="title_activity_main">痒吧</string>
+    <string name="tweet">转推</string>
+    <string name="refresh">刷新</string>
+    <string name="purge">删除</string>
+
+</resources>
